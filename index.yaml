@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wcs-administrator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-17T17:06:10.933378757Z"
+    description: A Helm chart for Kubernetes
+    digest: f33fae83cba045af60f42589bddf58094a7c83bf54b1f7de7fb71d55d2876fc9
+    name: wcs-administrator
+    type: application
+    urls:
+    - https://THG-Voyager.github.io/voyager-app-catalog/wcs-administrator-0.0.0-6a3ed94d98659d08be80dad4726a09e989ec3c06.tgz
+    version: 0.0.0-6a3ed94d98659d08be80dad4726a09e989ec3c06
+generated: "2023-02-17T17:06:10.928193065Z"
