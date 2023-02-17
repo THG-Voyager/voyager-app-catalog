@@ -3,7 +3,7 @@ entries:
   wcs-administrator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-17T20:27:23.996987813Z"
+    created: "2023-02-17T20:30:24.339112686Z"
     description: A Helm chart for Kubernetes
     digest: f33fae83cba045af60f42589bddf58094a7c83bf54b1f7de7fb71d55d2876fc9
     name: wcs-administrator
@@ -14,7 +14,17 @@ entries:
   wcs-gateway-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-17T20:27:23.997504109Z"
+    created: "2023-02-17T20:30:24.340151379Z"
+    description: A Helm chart for Kubernetes
+    digest: e4f7d6d34a41f0db33b7829d97d0601f04c4a49b24cca4be22214a89c8750975
+    name: wcs-gateway-service
+    type: application
+    urls:
+    - https://THG-Voyager.github.io/voyager-app-catalog/wcs-gateway-service-0.0.0-7ada897e22928f35f0d4502a4c446ebbadc62894.tgz
+    version: 0.0.0-7ada897e22928f35f0d4502a4c446ebbadc62894
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-17T20:30:24.339645783Z"
     description: A Helm chart for Kubernetes
     digest: 1231cd6a1965fab37ec2720ac3c017c38dc81613c9bfa5c3c8a035e29dc7c8f3
     name: wcs-gateway-service
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://THG-Voyager.github.io/voyager-app-catalog/wcs-gateway-service-0.0.0-576983d52be1d23f39c3cc826461e8b7f070865b.tgz
     version: 0.0.0-576983d52be1d23f39c3cc826461e8b7f070865b
-generated: "2023-02-17T20:27:23.996232518Z"
+generated: "2023-02-17T20:30:24.336704704Z"
